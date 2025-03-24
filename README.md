@@ -3,7 +3,6 @@
 ## Author
 
 - **Panagiotis Vardalas**  
-  *Student ID: sdi2400013*
 
   
 ## Overview
